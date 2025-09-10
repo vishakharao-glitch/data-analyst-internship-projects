@@ -32,15 +32,18 @@ Welcome! This repository contains hands-on data analysis projects completed duri
 
 This dashboard complements the Python-based time series analysis and demonstrates effective storytelling through visuals and business-ready insights.
 
-📥 **How to View the Dashboard:**  
-You can explore the dashboard in one of the following ways:
-- **Open the Power BI file**:  
-  👉 [Download Stock_TimeSeries_Dashboard.pbix](Stock_TimeSeries_Dashboard.pbix)  
-  🔗 [Get Power BI Desktop](https://powerbi.microsoft.com/en-us/downloads/)
-- **If the file doesn’t open**, or you don’t have Power BI installed, you can view the dashboard screenshot below:
+## 📥 How to View the Dashboard
 
-🖼️ **Dashboard Preview:**  
-![Dashboard Preview](Stock_Performance_Dashboard_VishakhaRao_2025.png)
+You can explore the dashboard in one of the following ways:
+
+- **Open the Power BI file**:  
+  👉 [`Download Stock_TimeSeries_Dashboard.pbix`](stock-time-series/Stock_TimeSeries_Dashboard.pbix)  
+  🔗 [Get Power BI Desktop](https://powerbi.microsoft.com/en-us/downloads)
+
+- **Or view the embedded screenshot below**:
+
+![Dashboard Preview](stock-time-series/Stock_Performance_Dashboard_VishakhaRao_2025.png)
+
 
 ### 💬 Sentiment Analysis of Social Media Comments
 - **Techniques:** Text preprocessing, TF-IDF vectorization, classification  
